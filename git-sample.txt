@@ -1,0 +1,2 @@
+editing from VSCode version 1.0 test
+Somehow I can't push to remote repository on Github
